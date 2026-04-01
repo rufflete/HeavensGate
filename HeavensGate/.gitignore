@@ -1,0 +1,26 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Package cache
+Library/PackageCache/
+
+# Visual Studio
+bin/
+obj/
+*.csproj
+*.sln
+*.user
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

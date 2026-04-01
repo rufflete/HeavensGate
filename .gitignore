@@ -1,4 +1,15 @@
 # Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
 
 # Specifically PackageCache (inside Library)
 Library/PackageCache/
+
+# OS files
+.DS_Store
+Thumbs.db

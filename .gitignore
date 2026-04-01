@@ -8,7 +8,15 @@ Logs/
 UserSettings/
 
 # Specifically PackageCache (inside Library)
-Library/PackageCache/
+HeavensGate/Library/PackageCache/
+
+# Visual Studio / C#
+bin/
+obj/
+*.csproj
+*.sln
+*.user
+*.log
 
 # OS files
 .DS_Store

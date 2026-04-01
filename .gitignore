@@ -1,11 +1,8 @@
 # Unity
-Library/
 Temp/
-Obj/
 Build/
 Builds/
 Logs/
-UserSettings/
 
 # Specifically PackageCache (inside Library)
 HeavensGate/Library/PackageCache/
@@ -13,11 +10,3 @@ HeavensGate/Library/PackageCache/
 # Visual Studio / C#
 bin/
 obj/
-*.csproj
-*.sln
-*.user
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db

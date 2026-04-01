@@ -1,0 +1,11 @@
+# Ignore large files
+*.zip
+*.mp4
+*.iso
+
+# Build folders (for C#)
+bin/
+obj/
+
+# Logs
+*.log

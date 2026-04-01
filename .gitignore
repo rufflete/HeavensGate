@@ -1,11 +1,23 @@
-# Ignore large files
-*.zip
-*.mp4
-*.iso
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
 
-# Build folders (for C#)
+# Specifically PackageCache (inside Library)
+Library/PackageCache/
+
+# Visual Studio / C#
 bin/
 obj/
-
-# Logs
+*.csproj
+*.sln
+*.user
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
